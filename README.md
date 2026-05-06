@@ -31,7 +31,9 @@ ${\textsf{\color{purple}Endo/demo/willowgenic\color{grey} DNI .}}$
 
 ${\textsf{\color{purple}I don't mind flirting , \color{grey} but don't be lewd with It . \color{purple}Don't flirt \color{grey}with other system members .}}$
 
-${\textsf{\color{grey}My \color{purple}headmates\color{grey} are pretty closeted off about us being a system , unlike me , whom openly speaks on It . Please \color{purple}don't\color{grey} poke and prod us about It . \color{purple}:)}}$
+${\textsf{\color{grey}My \color{purple}headmates\color{grey} are pretty closeted off about us being a system , unlike me , whom openly speaks on It .}}$
+
+${\textsf{\color{grey}Please \color{purple}don't\color{grey} poke and prod us about It . \color{purple}:)}}$
 
 ${\textsf{\color{grey}I like \color{purple}blueberries , pastries , nighttime and dim colours .}}$
 
