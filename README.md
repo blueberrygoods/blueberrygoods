@@ -5,7 +5,7 @@
 ㅤㅤ
 
 <p align="center">
-<br> ${\textsf{\color{grey}this is in the making}}$ 
+<br> ${\textsf{\color{grey}this is in the making .}}$ 
 <br>
 ㅤ
 ㅤ
