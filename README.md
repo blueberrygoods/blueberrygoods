@@ -17,6 +17,8 @@ ${\textsf{\color{grey}I am a fictive In a traumagenic system .}}$
 ${\textsf{\color{purple}This Is a general set of information about me , along with DNIs and how to behave yourself .}}$  
 ${\textsf{\color{grey}I'd love If you kept this In mind if we interact \color{purple}:) .}}$
 
+${\textsf{\color{grey}Basic \color{purple}DNI .}}$
+
 ${\textsf{\color{purple}I am not my source .\color{grey} Though , I don't mind being treated as such . Just be mindful about this .}}$
 
 ${\textsf{\color{grey}I am looking for friends , my headmates aren't . \color{purple}:)}}$
