@@ -29,8 +29,6 @@ ${\textsf{\color{grey}I don't care about \color{purple}"doubles" , fictionkins ,
 
 ${\textsf{\color{grey}Boundary breakers \color{purple}DNI .\color{grey} Mcyt fandom \color{purple}iwc\color{grey} , you people can get weird at times .}}$
 
-${\textsf{\color{purple}Endo/demo/willowgenic + IRLs\color{grey} DNI .}}$
-
 ${\textsf{\color{purple}I don't mind flirting , \color{grey} but don't be lewd with It . \color{purple}Don't flirt \color{grey}with other system members .}}$
 
 ${\textsf{\color{grey}My \color{purple}headmates\color{grey} are pretty closeted about us being a system , unlike me , whom openly speaks on It .}}$
